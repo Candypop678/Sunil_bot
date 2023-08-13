@@ -106,7 +106,7 @@ async def pm_text(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/+KK3luxGYqCg0Yjll"
+                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/Trype0143"
                     )
                 ]
             ]
