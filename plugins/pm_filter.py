@@ -101,7 +101,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS:
         return  # ignore admins
     await message.reply_text(
-        text=f"<b>Nᴀᴍᴀsᴛʜᴇ {message.from_user.mention} Jɪ 😍 ,\n\nɪ ᴄᴀɴᴛ ɢɪᴠᴇ ᴍᴏᴠɪᴇ ʜᴇʀᴇ\nʏᴏᴜ ᴄᴀɴ ʀᴇǫᴜᴇsᴛ <a href=\"https://t.me/+PA8OPL2Zglk3MDM1\">ʜᴇʀᴇ</a> ᴏʀ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴜsᴇ ᴍᴇ</b>",
+        text=f"<b>Nᴀᴍᴀsᴛʜᴇ {message.from_user.mention} Jɪ 😍 ,\n\nɪ ᴄᴀɴᴛ ɢɪᴠᴇ ᴍᴏᴠɪᴇ ʜᴇʀᴇ\nʏᴏᴜ ᴄᴀɴ ʀᴇǫᴜᴇsᴛ <a href=\"https://t.me/Trype0143\">ʜᴇʀᴇ</a> ᴏʀ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴜsᴇ ᴍᴇ</b>",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
